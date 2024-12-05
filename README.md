@@ -6,7 +6,9 @@
 
 #
 
-<p align="center">Sou estudante de Tecnologia da Informação na Cotemig, apaixonado por tecnologia desde cedo e sempre buscando me aprimorar. Durante minha trajetória, desenvolvi habilidades em HTML, CSS, JavaScript, MySQL e ferramentas como Git e VSCode. Além disso, possuo inglês avançado, o que me permite acessar conteúdos e colaborar em ambientes internacionais.
+**Estagiario em TI**
+
+<p align="left">Sou estudante de Tecnologia da Informação na Cotemig, apaixonado por tecnologia desde cedo e sempre buscando me aprimorar. Durante minha trajetória, desenvolvi habilidades em HTML, CSS, JavaScript, MySQL e ferramentas como Git e VSCode. Além disso, possuo inglês avançado, o que me permite acessar conteúdos e colaborar em ambientes internacionais.
 
 Minha motivação é transformar conhecimento em soluções reais, trabalhando em equipe e desafios que me impulsionam ao crescimento. Meu objetivo é me tornar um profissional completo na área de TI e, futuramente, ingressar no curso de Mecatrônica, unindo minhas paixões por tecnologia e inovação.
 
